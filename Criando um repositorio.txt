@@ -1,0 +1,7 @@
+Criar o repositorio no GitHub e deixar como público e adicionar o arquivo readme.md
+Abrir o Git Bash na pasta onde será clonado o repositorio.
+Clonar o repositório.
+Entrar na pasta (CD e o nome do repositório)
+Verificar o status do repositório (git status)
+Quando houverem modificações (pastas e/ou arquivos) estes aparecerão em vermelho no comando git status
+
