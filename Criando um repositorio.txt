@@ -3,5 +3,8 @@ Abrir o Git Bash na pasta onde será clonado o repositorio.
 Clonar o repositório.
 Entrar na pasta (CD e o nome do repositório)
 Verificar o status do repositório (git status)
-Quando houverem modificações (pastas e/ou arquivos) estes aparecerão em vermelho no comando git status
+Quando houverem modificações (pastas e/ou arquivos) estes aparecerão em vermelho no comando git status, então será necessário usar o comando git add . para preparar os arquivos para serem comitados.
+usar o commando git commit "comentário sobre o arquivo comitado"
+usar o comando git push origin main para atualizar as modificações realizadas no repositório local para o repositório público. 
+
 
